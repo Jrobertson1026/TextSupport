@@ -1,0 +1,28 @@
+{
+  "name": "TextSupport",
+  "version": "1.0.0",
+  "description": "TextSupportApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jrobertson1026/TextSupport.git"
+  },
+  "keywords": [
+    "Text",
+    "Support"
+  ],
+  "author": "JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jrobertson1026/TextSupport/issues"
+  },
+  "homepage": "https://github.com/Jrobertson1026/TextSupport",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3"
+  }
+}
